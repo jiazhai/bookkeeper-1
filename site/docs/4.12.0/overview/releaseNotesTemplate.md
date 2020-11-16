@@ -1,10 +1,10 @@
 ---
-title: Apache BookKeeper 4.12.0-SNAPSHOT Release Notes
+title: Apache BookKeeper 4.12.0 Release Notes
 ---
 
 [provide a summary of this release]
 
-Apache BookKeeper users are encouraged to upgrade to {{ site.latest_version }}. The technical details of this release are summarized
+Apache BookKeeper users are encouraged to upgrade to 4.12.0. The technical details of this release are summarized
 below.
 
 ## Highlights
